@@ -14,4 +14,4 @@ Este proyecto es un portal web hecho en Vue.js 3 que muestra personajes de Star 
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/EstherDaza_2daEvaluacionTWeb.git
+git clone https://github.com/pashimba/EstherDaza_2daEvaluacionTWeb.git
